@@ -1,0 +1,24 @@
+privilege codes and description
+
+name                        description
+
+('PID00001', 'student view', 'access to view\read student db data', '2023-01-04 13:58:58','2023-01-04 13:58:58','Null')
+('PID00002', 'student write' , 'access to create\write to student db data', '2023-01-04 13:58:58','2023-01-04 13:58:58','Null')
+('PID00003', 'student update', 'access to update student db data', '2023-01-04 13:58:58','2023-01-04 13:58:58','Null')
+('PID00004', 'student delete', 'access to delete student db data', '2023-01-04 13:58:58','2023-01-04 13:58:58','Null')
+
+('PID00005', 'student enrollment view', 'access to view\read student enrollment data', '2023-01-04 13:58:58','2023-01-04 13:58:58','Null')
+('PID00006', 'student enrollment write', 'access to view\read student enrollment data', '2023-01-04 13:58:58','2023-01-04 13:58:58','Null')
+('PID00007', 'student enrollment update', 'access to view\read student enrollment data', '2023-01-04 13:58:58','2023-01-04 13:58:58','Null')
+('PID00008', 'student enrollment delete', 'access to view\read student enrollment data', '2023-01-04 13:58:58','2023-01-04 13:58:58','Null')
+
+('PID00009', 'student privilege view', 'access to view\read student privilege data', '2023-01-04 13:58:58','2023-01-04 13:58:58','Null')
+('PID00010', 'student privilege write', 'access to view\read student privilege data', '2023-01-04 13:58:58','2023-01-04 13:58:58','Null')
+('PID00011', 'student privilege update', 'access to view\read student privilege data', '2023-01-04 13:58:58','2023-01-04 13:58:58','Null')
+('PID00012', 'student privilege delete', 'access to view\read student privilege data', '2023-01-04 13:58:58','2023-01-04 13:58:58','Null')
+
+('PID00013', 'student hold response view', 'access to view\read student hold response data', '2023-01-04 13:58:58','2023-01-04 13:58:58','Null')
+('PID00014', 'student hold response write', 'access to view\read student hold response data', '2023-01-04 13:58:58','2023-01-04 13:58:58','Null')
+('PID00015', 'student hold response update', 'access to view\read student hold response data', '2023-01-04 13:58:58','2023-01-04 13:58:58','Null')
+('PID00016', 'student hold response delete', 'access to view\read student hold response data', '2023-01-04 13:58:58','2023-01-04 13:58:58','Null')
+

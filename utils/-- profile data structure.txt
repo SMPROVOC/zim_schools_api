@@ -1,0 +1,15 @@
+-- profile data structure
+
+teacher profile
+
+- gets student info (all)
+- search individual student (by ID, Name, Last name, gender, guardian, cell, dob)
+- create marks for students
+- edit marks for student
+- delete student marks
+- update student marks
+- view student marks
+- set hold response (with appropriate rights)
+- comment on student marks
+- bulk upload student marks
+- get marks
